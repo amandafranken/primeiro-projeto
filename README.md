@@ -1,4 +1,6 @@
 # primeiro-projeto
 apresentação primeira aula
 
-ESTA DOCUMENTAÇÂO È UMA APRESENTAÇÃO DE COMO USAR O GITHUB
+ESTA DOC È UMA APRESENTAÇÃO DE COMO USAR O GITHUB!!
+
+FIM DO README
